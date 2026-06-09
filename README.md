@@ -33,4 +33,4 @@ To start my career as a Data Analyst and gradually grow into a Data Scientist by
 - GitHub Portfolio Development
 
 ## Connect With Me
-LinkedIn: https://www.linkedin.com/in/rangeela-choudhary/
+LinkedIn: www.linkedin.com/in/rangeela-choudhary
